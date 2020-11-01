@@ -5,4 +5,6 @@ class Puppy
 
   def new_puppy
     puppy = puppy.new
-  end 
+  end
+
+end
