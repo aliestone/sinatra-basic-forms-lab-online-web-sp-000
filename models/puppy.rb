@@ -6,4 +6,5 @@ class Puppy
   def puppy_name(name)
     @name = name
   end
-  
+
+end 
